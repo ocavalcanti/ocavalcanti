@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ocavalcanti
-- 👀 I’m interested in software enginner
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently learning mobile development
 - 💞️ I’m looking to collaborate on mobile projects ;]
 - 📫 How to reach me osvaldo.airon@dcx.ufpb.br
